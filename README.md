@@ -1,7 +1,7 @@
 ﻿explain-git-with-d3
 ===================
 
-Use D3 to visualize simple git branching operations.
+Use D3 to visualize simple git branching operations. It's fun and easy!
 
 This simple project is designed to help people understand some basic git concepts visually.
 
